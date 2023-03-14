@@ -43,12 +43,3 @@ Upon submission all selected data must be collected and saved in a JavaScript ob
 ## Stack
 
 You are free to use any front-end technologies that you see fit for completing the assignment.
-
-
-## Submission
-Please clone the repository and create a private repository on your own account. Then, create a new branch and submit a Pull Request with your proposed solution. Make sure to add and request review on the PR of the following github users:
-
-- @GeorgeExperiencegift
-
-
-**Good luck!**
