@@ -1,4 +1,4 @@
-# experience-gifts
+# Front-end assessment
 
 ## Project setup
 ```
@@ -14,6 +14,3 @@ yarn serve
 ```
 yarn build
 ```
-
-
-
