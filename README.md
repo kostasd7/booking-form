@@ -1,4 +1,4 @@
-# Experiencegift front-end assessment
+# Front-end assessment
 
 The goal of this exercise is to assess candidates front-end development skills.
 
